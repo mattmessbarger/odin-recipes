@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: rgb(131, 128, 165);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+h1 {
+    color:rgb(225, 225, 236);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+ol {
+    list-style: upper-roman;
+    text-align: left;
+}
